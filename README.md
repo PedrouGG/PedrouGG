@@ -1,4 +1,4 @@
-## Bem-vindo(a) ao perfil do Dev em Dobro 😁
+## Bem-vindo(a) ao perfil de um aluno do Dev em Dobro 😁
 
  <div>
    <a href="https://github.com/PedrouGG">
